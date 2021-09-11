@@ -1,1 +1,2 @@
-New first file
+New first file.
+More content
